@@ -5,6 +5,7 @@ export function HomePage() {
     <div>
       <h1>MY WEBHOOK Page!</h1>
       <h2>Change Home Page </h2>
+      <p>Trigger File</p>
     </div>
   );
 }
